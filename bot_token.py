@@ -1,6 +1,4 @@
-bot_token = "5368245711:AAGHGBI5O21NIskCosJHyMKNAPjw7SQDcyk"
-
-bot_token_test= "1994853065:AAExWFuo2ga8x7Fm_-SYF3xc8SbGjpaYmq0"
+bot_token = "5368245711:AAFLFopxS7Xvhr1DslA1aD04J9WSU4w_wqI"
 
 chat_id_buchou = "993028719"
 

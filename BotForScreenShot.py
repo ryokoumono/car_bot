@@ -5,7 +5,6 @@ import bot_token as token
 import requests
 import urllib.parse
 import os
-import token
 
 from PIL import Image
 from aiogram import Bot, Dispatcher, executor, types
